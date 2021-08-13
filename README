@@ -9,6 +9,11 @@ are licenced under __LICENCE__, and the
 licence is also detailed in the LICENCE file of this directory. The authors
 named in the AUTHORS file are available to grant other licencing choices.
 
+**NB!** Please note that this repo is not meant for keyboard layouts for single
+Uralic languages. Instead the goal is to make one or a few layouts making it
+(relatively) easy to type a number of different languages. That it, it is
+targeted at linguists rather than regular users.
+
 Installation and compilation, and a short note on usage, is documented in the
 file INSTALL.
 
