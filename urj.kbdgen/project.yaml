@@ -1,0 +1,18 @@
+locales:
+  urj:
+    name: Uralic in Cyrillic Keyboards
+    description: >-
+      Mobile OS keyboards for the Uralic in Cyrillic language from the Divvun group
+      at UiT.
+  en:
+    name: Uralic in Cyrillic Keyboards
+    description: >-
+      Mobile OS keyboards for the Uralic in Cyrillic language from the Divvun group
+      at UiT.
+  nb:
+    name: Uralic in Cyrillic tastatur
+    description: Mobiltastatur for Uralic in Cyrillic fra Divvun-gruppa.
+author: 'The Divvun Group, UiT Norgga árktalaš universitehta'
+copyright: (c) 2017 Divvun/Giellatekno/UiT
+email: feedback@divvun.no
+organisation: UiT Norgga árktalaš universitehta

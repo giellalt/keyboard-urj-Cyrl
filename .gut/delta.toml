@@ -1,0 +1,8 @@
+template = ""
+rev_id = 4
+template_sha = "1478be9fec4c72c68d0d1420c0f1ca9efbab27a4"
+
+[replacements]
+__UND2C__ = "urj"
+__UNDEFINED__ = "Uralic in Cyrillic"
+__UND__ = "urj"
