@@ -6,10 +6,28 @@ This document gives the Cyrillic letters outside the standard Russian repertoire
 
 ## The Uralic languages
 
+ 
+### kca
+* ӓ ӑ ә ӛ ө ӫ ӱ ў є є̈ ю̆ я̆
+* ԯ ң қ ҳ ҷ (ӆ ӊ) (ԓ ӄ ӈ ӽ) ԑ ’
+
+### koi
+* і ӧ
+
+### kpv
+* і ӧ
+
+### mdf
+* = ru
+
 ### mhr
 * ӓ ӧ ӱ ӹ 
 * ҥ 
-
+ 
+### mns
+* а̄ е̄ о̄ ы̄ э̄ ю̄ я̄ ё̄ ӣ ӯ 
+* ӈ
+ 
 ### mrj
 * ӓ ӧ ӱ ӹ 
 * ҥ 
@@ -17,46 +35,38 @@ This document gives the Cyrillic letters outside the standard Russian repertoire
 ### myv
 * as for Russian
  
-### mdf
-* = ru
+### sel
+* ā ӓ ӓ̄ ə ӣ і і̄ ӧ ө ө̄ ы̄ ӱ
+* ӄ ӈ
 
-### udm
-* ӥ ӧ 
-* ӝ ӟ ӵ 
- 
-### kpv
-* і ӧ
- 
-### koi
-* і ӧ
-
-### mns
-* а̄ е̄ о̄ ы̄ э̄ ю̄ я̄ ё̄ ӣ ӯ 
-* ӈ
- 
-### yrk
-* ң ˮ ʼ
- 
 ### sjd
 * ӓ а̄ е̄ ё̄ ӣ о̄ ӯ ӭ э̄ ю̄ я̄
 * һ ҋ ј к ӆ ӎ ӊ ӈ ҏ ҍ
  
-### kca
-* а̄ о̄ е̄ ё̄ э̄ я̄ ы̄ ӯ
-* ԯ ң
+### udm
+* ӥ ӧ 
+* ӝ ӟ ӵ 
  
-### sel
-* ā ӓ ӓ̄ ə ӣ і і̄ ӧ ө ө̄ ы̄ ӱ
-* ӄ ӈ
+### yrk
+* ң ˮ ʼ
+ 
 
 ## The non-Uralic languages
 
 ### bxr
 * ө ү
  
+ 
+### ckt
+* ӄ ԓ ӈ ʼ
+
 ### evn
 * а̄ е̄ ӣ э̄ ӯ о̄ 
 * ӈ
- 
-### ckt
 
+### sah
+* ҕ
+
+### tat
+* җ<
+* 
