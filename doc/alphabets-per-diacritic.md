@@ -11,7 +11,7 @@ Other letters are added after //
 * ӑ ў ю̆ я̆
 
 ### Dieaeresis
-* ӓ ӧ ӱ ӹ 
+* ӓ ӧ ӱ ӹ ӭ
 
 ### Macron
 * а̄ е̄ о̄ ы̄ э̄ ю̄ я̄ ӣ ӯ 
@@ -19,25 +19,25 @@ Other letters are added after //
 ### Descender
 * ԯ ң қ ҳ ҷ // җ
 
-### Diaeresis and macron
-* Diaeresis: ӓ̄ ё̄ 
-* Latin letter: і̄
-* New letter: ө̄ є̈ ӛ ԑ
+### Hook
+* ӄ ԓ ӈ ӽ  // ҕ
+
+### Tail
+* ҋ ӆ ӎ ӊ ҏ
 
 ### Latin-like
 * һ і ј
 
 ### Miscellanious
 * Semisoft: ҍ
-* New letters: ө ү ə є
+* New letters: ө ə є // ү ԑ
 * Digraphs: ҥ
 * Glottal stop: ˮ ʼ
 
-### Hook
-* ӄ ԓ ӈ ӽ  // ҕ
-
-### Tail
-* ҋ ӆ ӎ ӊ ҏ
+### Diaeresis and macron
+* Diaeresis: ӓ̄ ё̄ 
+* Latin letter: і̄
+* New letter: ө̄ є̈ ӛ
 
 
 ## Letters in Unicode
@@ -50,7 +50,7 @@ For reference, these are the letters in the U+0400 block. We should consider add
 * LETTER GHE WITH STROKE
 * LETTER STRAIGHT U WITH STROKE
 * LETTER KA WITH VERTICAL STROKE
-* LETTER CHE WITH VERTICAL STROK
+* LETTER CHE WITH VERTICAL STROKE
 
 ### Breve
 * LETTER A WITH BREVE
