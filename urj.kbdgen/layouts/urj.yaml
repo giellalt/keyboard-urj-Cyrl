@@ -257,6 +257,14 @@ strings:
   space: Mellomrom
   return: "Linjeskift"
 
+space:
+  mac:
+    caps: '\u{A0}'
+    alt: '\u{A0}'
+    alt+shift: '\u{A0}'
+    caps+alt: '\u{A0}'
+    cmd+alt: '\u{A0}'
+
 targets:
   win:
     locale: urj-Cyrl-NO
