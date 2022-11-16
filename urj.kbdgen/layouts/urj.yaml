@@ -162,7 +162,7 @@ longpress:
   '"': '„ “ ” « »'
   '''': '‚ ‘ ’'
 
-deadKeys: # to be revised...
+deadKeys:
   mac:
     default: [´]
     shift: ['`']
@@ -243,9 +243,9 @@ transforms:
     у: ү 
     з: ԑ
     н: ҥ
-    ,: ʼ
-    .: ˮ
-  '9': Diaeresis and macron
+    ',': ʼ
+    '.': ˮ
+  '9': # Diaeresis and macron
     а: ӓ̄ 
     е: ё̄
     и: і̄
