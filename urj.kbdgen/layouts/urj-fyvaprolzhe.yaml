@@ -153,9 +153,11 @@ space:
     alt+shift: '\u{A0}'
     caps+alt: '\u{A0}'
     cmd+alt: '\u{A0}'
+
 strings:
   space: Пробел
   return: Ввод
+
 deadKeys:
   mobile:
     default: [´]
