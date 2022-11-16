@@ -166,8 +166,3 @@ deadKeys:
     caps+alt: ['-', ., ¨, ¯, ¸, ƒ, ʼ, ˀ, ˆ, ˇ, ˘, ˙, ˚, ˛, ˜, ˝]
     alt: ['-', ., ¨, ¯, ¸, ƒ, ʼ, ˀ, ˆ, ˇ, ˘, ˙, ˚, ˛, ˜, ˝]
     alt+shift: [ʔ, №]
-targets:
-  ios:
-    legacyName: urj-cyrl_keyboards
-  android:
-    legacyName: urj-Cyrl_keyboards
