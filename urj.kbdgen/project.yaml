@@ -1,4 +1,17 @@
 locales:
+  urj-NO:
+    name: Uralic in Cyrillic tastatur
+    description: Mobiltastatur for Uralic in Cyrillic fra Divvun-gruppa.
+  urj-US:
+    name: Uralic in Cyrillic Keyboards
+    description: >-
+      Mobile OS keyboards for the Uralic in Cyrillic language from the Divvun group
+      at UiT.
+  urj-RU:
+    name: Uralic in Cyrillic Keyboards
+    description: >-
+      Mobile OS keyboards for the Uralic in Cyrillic language from the Divvun group
+      at UiT.
   urj:
     name: Uralic in Cyrillic Keyboards
     description: >-
