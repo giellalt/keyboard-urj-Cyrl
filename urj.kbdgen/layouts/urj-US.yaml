@@ -1,6 +1,7 @@
 displayNames:
   "urj-RU": Уральские языки в России
   "urj-US": Uralic in Cyrillic
+  urj: Уральские языки в России
   en: Uralic in Cyrillic
 android:
   config:
