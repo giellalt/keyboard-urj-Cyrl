@@ -2,7 +2,9 @@ displayNames:
   "urj-RU": Уральские языки в России
   en: Uralic in Cyrillic
   nb: Uralsk med kyrillisk
+
 decimal: ','
+
 macOS:
   primary:
     layers:
@@ -44,6 +46,7 @@ macOS:
         Ј Џ Ў Ќ † Њ Ѓ Ѕ „ ’ ” Ґ
         d Ѕ Ћ ± √ ∞ µ Љ L » Є |
         § Ђ X C V І ƒ M < > Ї
+
 transforms:
   '1':
     ' ': '1'
