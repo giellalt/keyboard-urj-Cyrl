@@ -9,7 +9,9 @@ displayNames:
   da: Kyrillisk (Norge)
   se: Kyrillalaš (Norga)
   sv: Kyrilliska (Norge)
+
 decimal: ','
+
 macOS:
   primary:
     layers:
@@ -61,6 +63,7 @@ macOS:
     alt: ['¨', ',', '-', '.', '¯', '¸', 'ʼ', 'ˀ', 'ˇ', 'ˍ', '˘', '˙', '˚', '˛', '˜', '˝', '‸', '\u{A0}\u{330}']
     alt+shift: ['ʔ', '№', 'ˆ']
     alt+caps: ['¨', ',', '-', '.', '¯', '¸', 'ʼ', 'ˀ', 'ˇ', 'ˍ', '˘', '˙', '˚', '˛', '˜', '˝', '‸']
+
 windows:
   config:
     locale: rus-Cyrl-NO
@@ -107,6 +110,7 @@ windows:
     caps+shift: ['`']
     alt: ['¨', '~', '´']
     alt+shift: ['^']
+
 chromeOS:
   config:
     locale: nb
@@ -143,6 +147,7 @@ chromeOS:
               Â     \u{0} \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} \u{0} \u{0}
               Á     Š     Đ     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Ä     ^
         \u{0} Ž     \u{0} Č     Ǯ     Ʒ     Ŋ     \u{0} \u{0} \u{0} \u{0}
+
 transforms:
   '\u{A0}\u{330}':
     ' ': \u{A0}\u{330}
