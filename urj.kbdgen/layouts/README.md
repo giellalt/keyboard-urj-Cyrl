@@ -14,10 +14,6 @@ c05 г = hook       = ҩ ҕ ӌ ӄ ԓ ӈ ӽ Ҧ ӻ
 c08 к = vertstroke = ҹ ҝ # azerbaijani (obsolete)
 c09 л = stroke     = ғ ҟ # abkhaz
       = acute      = а́ е́ и́ о́ у́ ы́ ю́ э́ я́ ө́ ү́ ѓ ќ  
-
-
-Suggestion:
-Long vowels should be on alt
 ```
 
 # Comments from urj.yaml
