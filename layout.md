@@ -1,13 +1,19 @@
-# Keyboard layout(s) for Uralic in Cyrillic
+---
+layout: default
+---
 
-**Legend:**
+# Keyboard layouts for URJ / urj
 
-| Mode       | Default | AltGr/Option | Caps Lock (Mode Switch) | Caps Lock + AltGr/Option |
-| ----------:|:-------:|:------------:|:-----------------------:|:------------------------:|
-|**Standard**| black   | red          | blue                    | purple                   |
-|**Deadkey** | green   | orange       | pink                    | green                    |
+> Tip: These keyboards are interactive — click or tap keys to explore different layers (Shift, Alt, etc.)
 
+## Mac
 
-# Keyboard Layouts
+<iframe src="https://keyboard.giellalt.org/embed?kbd=urj&layout=urj-NO&platform=macOS&variant=primary"></iframe>
 
-No keyboard layout defined yet!
+## Windows
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=urj&layout=urj-NO&platform=windows&variant=primary"></iframe>
+
+## ChromeOS
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=urj&layout=urj-NO&platform=chromeOS&variant=primary"></iframe>
